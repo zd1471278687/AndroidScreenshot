@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidScreenshot</string>
+
+    <string name="share_screen_shot_to_friend">是否需要将截图分享给好友？</string>
+    <string name="create_screen_shot">正在生成截图&#8230;</string>
+    <string name="wechat_not_install">您没有安装微信！</string>
+    <string name="qq_not_install">您没有安装QQ！</string>
+    <string name="wechat">微信</string>
+    <string name="wechat_circle">朋友圈</string>
+    <string name="qq">QQ好友</string>
+    <string name="qq_zone">QQ空间</string>
+    <string name="sso_auth_failed">授权失败</string>
+    <string name="sso_auth_cancel">授权取消</string>
+    <string name="my_fortune_share">我的分享</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_failed">分享失败</string>
+    <string name="send_img_file_not_exist">文件不存在</string>
+    <string name="error_code_auth_success">授权成功</string>
+    <string name="error_code_auth_cancel">取消授权</string>
+    <string name="error_code_auth_deny">授权被拒绝</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">未知错误</string>
+    <string name="ali_client_download_tip">是否下载并安装支付宝完成认证?</string>
+    <string name="ali_pay_fail_tip">当前版本不支持，请到应用市场下载最新的支付宝应用</string>
+
+    <string name="title">标题</string>
+    <string name="screenshot">截屏</string>
+    <string name="cancel">取消</string>
+    <string name="copy_success">复制成功</string>
+</resources>
