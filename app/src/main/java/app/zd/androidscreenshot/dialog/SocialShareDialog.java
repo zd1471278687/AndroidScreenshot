@@ -220,8 +220,8 @@ public class SocialShareDialog extends Dialog implements View.OnClickListener, D
                 if (mSocialManager == null) {
                     mSocialManager = new SocialManager(mActivity);
                 }
-//                mSocialManager.shareImage(info.type, "", BitmapUtilLib.makeBitmapForShare(getContext(), mScreenBitmap,
-//                        ScreenUtil.dip2px(getContext(), TOP_BAR_HEIGHT)), this);
+                mSocialManager.shareImage(info.type, "", BitmapUtilLib.makeBitmapForShare(getContext(), mScreenBitmap,
+                        ScreenUtil.dip2px(getContext(), TOP_BAR_HEIGHT)), this);
                 mSocialManager.shareImage(info.type, "", mScreenBitmap, this); //暂时不拼接二维码 modify by zhangdong
                 break;
             default:
